@@ -1,4 +1,3 @@
-
 import { subscribeToHellfireClube } from './data/hellfire-clube.js'
 
 (function main() {

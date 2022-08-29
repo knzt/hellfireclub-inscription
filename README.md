@@ -1,12 +1,12 @@
 <p align="center">
-    <img width="300" src="./assets/images/banner/logo.svg">
+    <img width="300" src="https://github.com/knzt/Construindo-uma-landing-page-no-mundo-invertido/blob/master/Assets/images/banner/logo.svg?short_path=d2aee07">
 </p>
 
 -------
 Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
 
 ## :bookmark_tabs:  Resumo
-Esse projeto é resultado do evento "Semana Front-end no Mundo Invertido" da <a Href="https://dio.me">DIO</a>, que consistiu em uma jornada para criar uma landing page inspirada na série Stranger Things, que conta com uma theme switcher para explorar a dinâmica de um "mundo invertido" e um formulário integrado com um banco de dados no Firebase.
+Esse projeto é resultado do evento "Semana Front-end no Mundo Invertido" da <a Href="https://dio.me">DIO</a>, que consistiu em uma jornada para criar uma landing page inspirada na série Stranger Things, que conta com um theme switcher para explorar a dinâmica de um "mundo invertido" e um formulário integrado com um banco de dados no Firebase.
 
 ## ▶️ Semana Front-end
 O conteúdo da semana Front-end está disponível gratuitamente, e foi dividido em 3 partes que podem ser acessadas através dos links:
